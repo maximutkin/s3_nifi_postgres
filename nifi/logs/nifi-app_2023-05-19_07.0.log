@@ -1,0 +1,980 @@
+2023-05-19 07:00:14,841 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:00:14,842 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:00:25,056 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:00:25,058 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:00:34,843 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:00:34,843 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:00:54,843 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:00:54,843 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:01:13,712 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 5 milliseconds, Clear Edit Logs time = 10 millis), max Transaction ID 152
+2023-05-19 07:01:14,844 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:01:14,844 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:01:25,070 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:01:25,071 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:01:34,845 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:01:34,845 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:01:54,846 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:01:54,847 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:02:14,848 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:02:14,849 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:02:25,098 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:02:25,098 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:02:34,850 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:02:34,851 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:02:54,852 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:02:54,852 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:03:13,747 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 32 milliseconds (Stop-the-world time = 10 milliseconds, Clear Edit Logs time = 16 millis), max Transaction ID 152
+2023-05-19 07:03:14,853 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:03:14,853 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:03:25,116 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:03:25,118 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:03:34,853 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:03:34,854 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:03:54,854 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:03:54,855 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:04:14,855 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:04:14,855 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:04:25,143 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:04:25,144 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:04:34,856 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:04:34,856 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:04:54,857 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:04:54,857 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:05:13,804 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 53 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:05:14,858 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:05:14,858 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:05:25,159 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:05:25,161 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:05:34,859 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:05:34,859 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:05:54,859 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:05:54,859 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:06:14,860 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:06:14,860 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:06:25,175 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:06:25,178 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:06:34,861 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:06:34,861 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:06:54,864 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:06:54,864 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:07:13,826 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 20 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:07:14,864 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:07:14,865 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:07:25,192 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:07:25,194 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:07:34,865 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:07:34,865 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:07:54,866 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:07:54,866 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:08:14,867 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:08:14,868 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:08:25,204 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:08:25,205 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:08:34,868 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:08:34,869 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:08:54,869 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:08:54,870 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:09:13,849 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 21 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:09:14,870 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:09:14,870 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:09:25,220 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:09:25,225 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:09:34,872 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:09:34,873 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:09:54,873 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:09:54,873 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:10:14,874 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:10:14,874 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:10:25,237 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:10:25,238 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:10:34,877 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:10:34,878 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:10:54,880 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:10:54,881 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:11:13,874 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 23 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 9 millis), max Transaction ID 152
+2023-05-19 07:11:14,881 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:11:14,882 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:11:25,244 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:11:25,245 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:11:34,882 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:11:34,883 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:11:54,884 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:11:54,885 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:12:14,885 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:12:14,885 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:12:25,259 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:12:25,261 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:12:34,886 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:12:34,886 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:12:54,891 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:12:54,891 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:13:13,899 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 19 milliseconds (Stop-the-world time = 5 milliseconds, Clear Edit Logs time = 6 millis), max Transaction ID 152
+2023-05-19 07:13:14,892 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:13:14,892 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:13:25,279 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:13:25,281 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:13:34,892 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:13:34,893 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 0 milliseconds
+2023-05-19 07:13:43,067 INFO [NiFi Web Server-9623] o.a.n.c.s.StandardProcessScheduler Starting RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161]
+2023-05-19 07:13:43,067 INFO [NiFi Web Server-9623] o.a.n.controller.StandardProcessorNode Starting RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161]
+2023-05-19 07:13:43,079 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Scheduled RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161] to run with 1 threads
+2023-05-19 07:13:43,082 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:42 +0000] "PUT /nifi-api/processors/2de00ae2-0188-1000-ffff-ffffd0821161/run-status HTTP/1.1" 200 2101 "http://localhost:8091/nifi/?processGroupId=root&componentIds=2de00ae2-0188-1000-ffff-ffffd0821161" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:43,094 INFO [Timer-Driven Process Thread-1] o.a.n.p.store.WriteAheadStorePartition Successfully rolled over Event Writer for Provenance Event Store Partition[directory=./provenance_repository] due to MAX_TIME_REACHED. Event File was 30.47 KB and contained 19 events.
+2023-05-19 07:13:43,976 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:13:44,740 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:44 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 214 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:44,742 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:44 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5889 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:44,748 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:44 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:44,766 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:44 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:44,770 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:44 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:46,835 INFO [NiFi Web Server-8788] o.a.n.c.s.StandardProcessScheduler Stopping RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161]
+2023-05-19 07:13:46,835 INFO [NiFi Web Server-8788] o.a.n.controller.StandardProcessorNode Stopping processor: RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161]
+2023-05-19 07:13:46,836 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161] to run
+2023-05-19 07:13:46,837 INFO [Timer-Driven Process Thread-1] o.a.n.controller.StandardProcessorNode RetryFlowFile[id=2de00ae2-0188-1000-ffff-ffffd0821161] has completely stopped. Completing any associated Futures.
+2023-05-19 07:13:46,841 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:13:46 +0000] "PUT /nifi-api/processors/2de00ae2-0188-1000-ffff-ffffd0821161/run-status HTTP/1.1" 200 2120 "http://localhost:8091/nifi/?processGroupId=root&componentIds=2de00ae2-0188-1000-ffff-ffffd0821161" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:13:47,131 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:13:54,894 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:13:54,945 INFO [pool-10-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 24 Records and 0 Swap Files in 51 milliseconds (Stop-the-world time = 42 milliseconds), max Transaction ID 11197
+2023-05-19 07:13:54,945 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 24 records in 51 milliseconds
+2023-05-19 07:14:13,183 ERROR [Timer-Driven Process Thread-3] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=54ce2219-ee59-4e5a-917b-f92df7d4581e,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=20320, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91,0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:13,196 ERROR [Timer-Driven Process Thread-10] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=eba40947-f3e4-4907-a2ee-e93085677e97,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=20635, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91,0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:13,216 ERROR [Timer-Driven Process Thread-10] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=1aac8f62-96bf-4b94-878f-5a1632034372,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=20850, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91,0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:13,220 ERROR [Timer-Driven Process Thread-8] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=fd6be8ae-c54c-414d-bb75-cc1169a4098e,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=21182, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91,0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:13,224 ERROR [Timer-Driven Process Thread-6] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=e6f45808-842e-459f-9685-38aa3c8e4e3e,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=21285, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91,0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:13,229 ERROR [Timer-Driven Process Thread-6] o.a.n.p.standard.PutDatabaseRecord PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] Failed to put Records to database for StandardFlowFileRecord[uuid=0e0b049c-078f-445a-b5c4-47890d82ead9,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=22542, length=103],offset=0,name=data.csv,size=103]. Routing to failure.
+org.apache.nifi.serialization.MalformedRecordException: Error while getting next record
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:121)
+	at org.apache.nifi.serialization.RecordReader.nextRecord(RecordReader.java:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor1283.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:254)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler.access$100(StandardControllerServiceInvocationHandler.java:38)
+	at org.apache.nifi.controller.service.StandardControllerServiceInvocationHandler$ProxiedReturnObjectInvocationHandler.invoke(StandardControllerServiceInvocationHandler.java:240)
+	at com.sun.proxy.$Proxy174.nextRecord(Unknown Source)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.executeDML(PutDatabaseRecord.java:650)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.putToDatabase(PutDatabaseRecord.java:969)
+	at org.apache.nifi.processors.standard.PutDatabaseRecord.onTrigger(PutDatabaseRecord.java:492)
+	at org.apache.nifi.processor.AbstractProcessor.onTrigger(AbstractProcessor.java:27)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.TimerDrivenSchedulingAgent$1.run(TimerDrivenSchedulingAgent.java:102)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91.0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.toInteger(DataTypeUtils.java:1773)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:201)
+	at org.apache.nifi.serialization.record.util.DataTypeUtils.convertType(DataTypeUtils.java:173)
+	at org.apache.nifi.csv.AbstractCSVRecordReader.convert(AbstractCSVRecordReader.java:97)
+	at org.apache.nifi.csv.CSVRecordReader.nextRecord(CSVRecordReader.java:107)
+	... 22 common frames omitted
+2023-05-19 07:14:14,946 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:14:14,964 INFO [pool-10-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 30 Records and 0 Swap Files in 18 milliseconds (Stop-the-world time = 7 milliseconds), max Transaction ID 11206
+2023-05-19 07:14:14,966 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 19 milliseconds
+2023-05-19 07:14:25,298 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:14:25,300 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:14:34,968 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:14:34,969 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:14:54,969 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:14:54,970 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:15:13,947 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 45 milliseconds (Stop-the-world time = 8 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 152
+2023-05-19 07:15:14,970 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:15:14,971 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:15:23,357 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:23 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 6203 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:23,365 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:23 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 213 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:23,368 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:23 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:23,378 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:23 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:23,391 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:23 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:25,305 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:15:25,306 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:15:34,971 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:15:34,972 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:15:39,985 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:39 +0000] "POST /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests HTTP/1.1" 202 322 "http://localhost:8091/nifi/?processGroupId=root&componentIds=2de05fa4-0188-1000-ffff-fffff17ef133" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:41,034 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:41 +0000] "GET /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests/32dd3d4f-0188-1000-96b0-7008ea50be91 HTTP/1.1" 200 662 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:41,051 INFO [NiFi Web Server-9418] o.a.n.c.queue.AbstractFlowFileQueue Canceling ListFlowFile Request with ID 32dd3d4f-0188-1000-96b0-7008ea50be91
+2023-05-19 07:15:41,052 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:41 +0000] "DELETE /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests/32dd3d4f-0188-1000-96b0-7008ea50be91 HTTP/1.1" 200 306 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:42,904 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:42 +0000] "GET /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/flowfiles/54ce2219-ee59-4e5a-917b-f92df7d4581e HTTP/1.1" 200 570 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:48,854 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:48 +0000] "GET /nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent HTTP/1.1" 200 1902 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:49,048 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:49 +0000] "GET /nifi/js/jquery/jquery.center.js HTTP/1.1" 200 177 "http://localhost:8091/nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:49,053 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:49 +0000] "GET /nifi/js/nf/nf-namespace.js HTTP/1.1" 200 22 "http://localhost:8091/nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:49,063 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:49 +0000] "GET /nifi/js/nf/nf-authorization-storage.js HTTP/1.1" 200 334 "http://localhost:8091/nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:49,064 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:49 +0000] "GET /nifi/js/nf/nf-ajax-setup.js HTTP/1.1" 200 290 "http://localhost:8091/nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:49,403 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:49 +0000] "GET /nifi/images/nifi16.ico HTTP/1.1" 200 1150 "http://localhost:8091/nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F54ce2219-ee59-4e5a-917b-f92df7d4581e%2Fcontent" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:54,972 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:15:54,973 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:15:55,718 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:55 +0000] "GET /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/flowfiles/0e0b049c-078f-445a-b5c4-47890d82ead9 HTTP/1.1" 200 568 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:15:57,700 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:15:57 +0000] "GET /nifi-content-viewer/?ref=http%3A%2F%2Flocalhost%3A8091%2Fnifi-api%2Fflowfile-queues%2F2de05fa4-0188-1000-ffff-fffff17ef133%2Fflowfiles%2F0e0b049c-078f-445a-b5c4-47890d82ead9%2Fcontent HTTP/1.1" 200 1904 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:14,973 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:16:14,973 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:16:25,319 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:16:25,321 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:16:31,004 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:31 +0000] "PUT /nifi-api/processors/30638e6f-0188-1000-0000-00007904a0d5 HTTP/1.1" 200 3049 "http://localhost:8091/nifi/?processGroupId=root&componentIds=30638e6f-0188-1000-0000-00007904a0d5" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:31,652 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:34,974 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:16:34,975 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:16:37,220 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:37 +0000] "PUT /nifi-api/connections/3031d89f-0188-1000-0000-0000600c02dc HTTP/1.1" 200 813 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:37,277 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:37 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1627 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:37,768 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:39,713 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:39 +0000] "PUT /nifi-api/processors/30638e6f-0188-1000-0000-00007904a0d5 HTTP/1.1" 200 3050 "http://localhost:8091/nifi/?processGroupId=root&componentIds=30638e6f-0188-1000-0000-00007904a0d5" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:39,883 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:41,936 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:41 +0000] "PUT /nifi-api/processors/30638e6f-0188-1000-0000-00007904a0d5 HTTP/1.1" 200 3050 "http://localhost:8091/nifi/?processGroupId=root&componentIds=30638e6f-0188-1000-0000-00007904a0d5" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:42,520 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:50,490 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:50 +0000] "PUT /nifi-api/connections/3031d89f-0188-1000-0000-0000600c02dc HTTP/1.1" 200 812 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:50,551 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:50 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1626 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:50,794 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:53,137 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:53 +0000] "PUT /nifi-api/connections/3031d89f-0188-1000-0000-0000600c02dc HTTP/1.1" 200 816 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:53,195 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:16:53 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1629 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:16:53,435 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:16:54,975 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:16:54,975 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:17:13,966 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 18 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 5 millis), max Transaction ID 152
+2023-05-19 07:17:14,975 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:17:14,975 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:17:25,329 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:17:25,330 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:17:34,976 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:17:34,977 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:17:54,977 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:17:54,977 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:18:14,978 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:18:14,979 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:18:25,337 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:18:25,337 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:18:34,979 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:18:34,979 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:18:54,980 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:18:54,980 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:19:13,995 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 28 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 13 millis), max Transaction ID 152
+2023-05-19 07:19:14,980 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:19:14,981 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:19:25,354 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:19:25,357 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:19:34,985 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:19:34,985 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:19:54,986 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:19:54,986 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:20:14,987 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:20:14,987 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:20:25,365 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:20:25,365 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:20:34,988 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:20:34,989 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:20:54,990 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:20:54,990 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:21:14,021 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 24 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 9 millis), max Transaction ID 152
+2023-05-19 07:21:14,991 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:21:14,991 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:21:25,372 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:21:25,372 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:21:34,992 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:21:34,992 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:21:54,993 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:21:54,993 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:22:14,994 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:22:14,994 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:22:25,377 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:22:25,377 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:22:34,998 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:22:34,998 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:22:54,999 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:22:54,999 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:23:14,045 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:23:15,000 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:23:15,000 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:23:25,388 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:23:25,389 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:23:35,000 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:23:35,000 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:23:55,001 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:23:55,001 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:24:15,001 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:24:15,002 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:24:25,403 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:24:25,404 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:24:35,003 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:24:35,003 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:24:55,004 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:24:55,005 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:25:14,077 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 31 milliseconds (Stop-the-world time = 17 milliseconds, Clear Edit Logs time = 6 millis), max Transaction ID 152
+2023-05-19 07:25:15,006 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:25:15,006 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:25:25,414 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:25:25,415 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:25:35,010 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:25:35,011 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:25:55,012 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:25:55,013 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:26:15,013 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:26:15,013 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:26:25,428 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:26:25,429 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:26:35,014 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:26:35,014 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:26:55,015 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:26:55,016 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:27:14,088 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 10 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 2 millis), max Transaction ID 152
+2023-05-19 07:27:15,019 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:27:15,019 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:27:25,441 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:27:25,444 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:27:35,020 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:27:35,021 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:27:55,021 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:27:55,021 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:28:15,022 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:28:15,023 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:28:25,465 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:28:25,466 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:28:35,024 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:28:35,024 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:28:55,025 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:28:55,025 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:29:14,117 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 23 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 152
+2023-05-19 07:29:15,027 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:29:15,027 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:29:25,484 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:29:25,486 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:29:35,028 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:29:35,029 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:29:55,030 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:29:55,030 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:30:15,031 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:30:15,031 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:30:25,507 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:30:25,508 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:30:35,033 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:30:35,034 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:30:55,034 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:30:55,034 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:31:14,182 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 62 milliseconds (Stop-the-world time = 8 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:31:15,035 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:31:15,035 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:31:25,517 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:31:25,518 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:31:35,035 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:31:35,036 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:31:55,036 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:31:55,037 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:32:15,038 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:32:15,038 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:32:25,541 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:32:25,544 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:32:35,041 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:32:35,042 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:32:55,043 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:32:55,043 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:33:14,244 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 60 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 152
+2023-05-19 07:33:15,044 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:33:15,044 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:33:25,560 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:33:25,561 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:33:35,045 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:33:35,045 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:33:55,050 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:33:55,050 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:34:15,052 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:34:15,052 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:34:25,579 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:34:25,583 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:34:35,056 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:34:35,056 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:34:55,057 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:34:55,057 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:35:14,284 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 38 milliseconds (Stop-the-world time = 3 milliseconds, Clear Edit Logs time = 2 millis), max Transaction ID 152
+2023-05-19 07:35:15,058 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:35:15,058 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:35:25,599 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:35:25,599 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:35:35,059 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:35:35,060 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:35:55,061 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:35:55,062 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:36:15,066 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:36:15,067 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:36:25,609 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:36:25,610 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:36:35,068 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:36:35,069 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:36:55,070 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:36:55,070 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:37:14,326 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 41 milliseconds (Stop-the-world time = 1 milliseconds, Clear Edit Logs time = 1 millis), max Transaction ID 152
+2023-05-19 07:37:15,071 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:37:15,071 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:37:25,621 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:37:25,621 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:37:35,071 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:37:35,072 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:37:55,072 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:37:55,073 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:38:15,073 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:38:15,073 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:38:25,626 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:38:25,626 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:38:35,073 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:38:35,074 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:38:55,075 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:38:55,075 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:39:14,334 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 7 milliseconds (Stop-the-world time = 1 milliseconds, Clear Edit Logs time = 1 millis), max Transaction ID 152
+2023-05-19 07:39:15,075 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:39:15,076 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:39:25,686 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:39:25,686 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:39:35,076 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:39:35,076 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:39:55,077 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:39:55,077 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:40:15,078 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:40:15,078 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:40:25,693 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:40:25,694 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:40:35,079 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:40:35,079 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:40:55,083 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:40:55,083 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:41:14,369 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 34 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 3 millis), max Transaction ID 152
+2023-05-19 07:41:15,083 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:41:15,083 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:41:25,700 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:41:25,701 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:41:35,084 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:41:35,084 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:41:43,393 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:43 +0000] "GET /nifi-api/processors/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 4507 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:43,405 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:43 +0000] "GET /nifi-api/flow/history/components/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 376 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,713 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4429 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,751 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5847 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,776 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,777 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 213 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,780 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:45,793 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:45 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:46,127 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:46 +0000] "GET /nifi-api/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 707 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:46,169 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:46 +0000] "GET /nifi-api/flow/parameter-contexts HTTP/1.1" 200 73 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:46,173 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:46 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc/controller-services?uiOnly=true HTTP/1.1" 200 10196 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:48,666 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:48 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4429 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:48,671 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:41:48 +0000] "GET /nifi-api/flow/history/components/05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 580 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:41:55,085 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:41:55,085 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:42:15,086 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:42:15,087 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:42:24,733 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:42:24 +0000] "POST /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests HTTP/1.1" 202 322 "http://localhost:8091/nifi/?processGroupId=root&componentIds=2de05fa4-0188-1000-ffff-fffff17ef133" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:42:25,708 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:42:25,709 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:42:25,774 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:42:25 +0000] "GET /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests/32f5b9d9-0188-1000-6783-689aa0b4500a HTTP/1.1" 200 664 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:42:25,821 INFO [NiFi Web Server-9274] o.a.n.c.queue.AbstractFlowFileQueue Canceling ListFlowFile Request with ID 32f5b9d9-0188-1000-6783-689aa0b4500a
+2023-05-19 07:42:25,823 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:42:25 +0000] "DELETE /nifi-api/flowfile-queues/2de05fa4-0188-1000-ffff-fffff17ef133/listing-requests/32f5b9d9-0188-1000-6783-689aa0b4500a HTTP/1.1" 200 307 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:42:35,087 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:42:35,087 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:42:55,087 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:42:55,088 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:43:14,377 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 7 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 2 millis), max Transaction ID 152
+2023-05-19 07:43:14,483 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:43:14 +0000] "GET /nifi-api/processors/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 4507 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:43:14,490 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:43:14 +0000] "GET /nifi-api/flow/history/components/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 376 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:43:15,090 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:43:15,090 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:43:25,713 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:43:25,714 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:43:35,090 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:43:35,090 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:43:55,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:43:55,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:44:15,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:44:15,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:44:15,919 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:15 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4429 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:15,998 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:15 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5847 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,015 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 213 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,038 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,045 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,050 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/?processGroupId=root&componentIds=058ea0d1-0187-1000-0000-000076af3593" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,404 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 707 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,431 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc/controller-services?uiOnly=true HTTP/1.1" 200 10196 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:16,442 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:16 +0000] "GET /nifi-api/flow/parameter-contexts HTTP/1.1" 200 73 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:18,359 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:18 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4429 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:18,370 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:44:18 +0000] "GET /nifi-api/flow/history/components/05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 580 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:44:25,761 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:44:25,761 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:44:35,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:44:35,098 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:44:55,099 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:44:55,099 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:45:14,398 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 20 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 152
+2023-05-19 07:45:15,100 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:45:15,100 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:45:25,782 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:45:25,782 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:45:35,101 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:45:35,101 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:45:55,102 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:45:55,102 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:46:15,102 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:46:15,103 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:46:25,797 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:46:25,797 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:46:35,103 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:46:35,104 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:46:55,105 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:46:55,106 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:47:14,419 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 18 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 6 millis), max Transaction ID 152
+2023-05-19 07:47:15,107 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:47:15,107 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:47:25,810 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:47:25,810 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:47:35,107 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:47:35,108 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:47:55,109 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:47:55,109 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:48:15,109 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:48:15,109 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:48:25,824 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:48:25,826 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:48:35,109 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:48:35,110 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:48:55,110 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:48:55,111 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:49:14,456 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 31 milliseconds (Stop-the-world time = 8 milliseconds, Clear Edit Logs time = 11 millis), max Transaction ID 152
+2023-05-19 07:49:15,113 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:49:15,113 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:49:25,834 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:49:25,836 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:49:35,114 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:49:35,115 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:49:55,115 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:49:55,115 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:50:15,115 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:50:15,116 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:50:26,144 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:50:26,145 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:50:35,116 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:50:35,116 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:50:55,117 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:50:55,118 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:51:14,487 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 29 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 18 millis), max Transaction ID 152
+2023-05-19 07:51:14,509 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:14 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:15,119 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:51:15,119 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:51:15,954 INFO [NiFi Web Server-8788] o.a.n.c.s.StandardProcessScheduler Stopping PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593]
+2023-05-19 07:51:15,954 INFO [NiFi Web Server-8788] o.a.n.controller.StandardProcessorNode Stopping processor: PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593]
+2023-05-19 07:51:15,965 INFO [Timer-Driven Process Thread-9] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] to run
+2023-05-19 07:51:15,965 INFO [Timer-Driven Process Thread-9] o.a.n.controller.StandardProcessorNode PutDatabaseRecord[id=058ea0d1-0187-1000-0000-000076af3593] has completely stopped. Completing any associated Futures.
+2023-05-19 07:51:15,970 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:15 +0000] "PUT /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf/references HTTP/1.1" 200 321 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,011 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:16 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,032 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:16 +0000] "PUT /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf/references HTTP/1.1" 200 321 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,083 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:16 +0000] "GET /nifi-api/flow/bulletin-board?sourceId= HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,190 INFO [NiFi Web Server-9624] o.a.n.c.s.StandardProcessScheduler Disabling StandardControllerServiceNode[service=CSVReader[id=05f580b7-0187-1000-0000-00001487edaf], name=CSVReader, active=true]
+2023-05-19 07:51:16,191 INFO [Timer-Driven Process Thread-8] o.a.n.c.service.ServiceStateTransition StandardControllerServiceNode[service=CSVReader[id=05f580b7-0187-1000-0000-00001487edaf], name=CSVReader, active=false] is now fully DISABLED
+2023-05-19 07:51:16,280 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = true
+2023-05-19 07:51:16,289 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:16 +0000] "PUT /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf/run-status HTTP/1.1" 200 4491 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,347 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:16 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:16,932 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:51:18,385 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:18 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:18,396 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:18 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4493 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:18,428 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:18 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4493 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:18,468 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:18 +0000] "GET /nifi-api/processors/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 4554 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:23,782 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:23 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4486 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:23,802 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:23 +0000] "GET /nifi-api/flow/history/components/05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 580 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:26,151 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:51:26,151 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:51:35,119 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:51:35,119 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:51:40,546 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:40 +0000] "PUT /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 7356 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:40,560 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:40 +0000] "GET /nifi-api/processors/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 4553 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:41,071 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:51:42,151 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:42 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:43,396 INFO [NiFi Web Server-8788] o.a.n.c.s.StandardProcessScheduler Enabling StandardControllerServiceNode[service=CSVReader[id=05f580b7-0187-1000-0000-00001487edaf], name=CSVReader, active=false]
+2023-05-19 07:51:43,404 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:43 +0000] "PUT /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf/run-status HTTP/1.1" 200 4491 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:43,424 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:43 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:43,704 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:51:44,398 INFO [Timer-Driven Process Thread-10] o.a.n.c.s.StandardControllerServiceNode Successfully enabled StandardControllerServiceNode[service=CSVReader[id=05f580b7-0187-1000-0000-00001487edaf], name=CSVReader, active=true]
+2023-05-19 07:51:45,447 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:45 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=05f580b7-0187-1000-0000-00001487edaf HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:45,460 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:45 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4433 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:45,489 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:45 +0000] "GET /nifi-api/controller-services/05f580b7-0187-1000-0000-00001487edaf?uiOnly=true HTTP/1.1" 200 4433 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:45,532 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:51:45 +0000] "GET /nifi-api/processors/058ea0d1-0187-1000-0000-000076af3593 HTTP/1.1" 200 4505 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:51:55,119 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:51:55,120 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:52:00,873 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:00 +0000] "GET /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1610 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:00,880 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:00 +0000] "GET /nifi-api/flow/history/components/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 224 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:14,509 INFO [NiFi Web Server-8788] o.a.n.c.s.StandardProcessScheduler Stopping ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:52:14,509 INFO [NiFi Web Server-8788] o.a.n.controller.StandardProcessorNode Stopping processor: ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:52:14,509 INFO [Timer-Driven Process Thread-10] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81] to run
+2023-05-19 07:52:14,509 INFO [Timer-Driven Process Thread-10] o.a.n.controller.StandardProcessorNode ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81] has completely stopped. Completing any associated Futures.
+2023-05-19 07:52:14,563 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:14 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81/run-status HTTP/1.1" 200 1626 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:14,906 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:52:15,122 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:52:15,122 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:52:16,253 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:16 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5838 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:16,255 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:16 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 214 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:16,260 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:16 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:16,263 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:16 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:16,263 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:16 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:18,807 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:18 +0000] "GET /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1605 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:18,818 INFO [NiFi Web Server-8788] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:18 +0000] "GET /nifi-api/flow/history/components/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 224 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:25,929 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:25 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1625 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:25,983 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:25 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3624 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,035 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5841 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,042 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 214 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,046 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,052 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,063 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,156 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:52:26,156 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 30.99 GB, bytes free = 8.99 GB, capacity = 39.98 GB
+2023-05-19 07:52:26,449 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 706 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,465 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/parameter-contexts HTTP/1.1" 200 73 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,470 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:26 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc/controller-services?uiOnly=true HTTP/1.1" 200 10200 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:26,594 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:52:28,500 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:28 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:29,784 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:29 +0000] "PUT /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c/references HTTP/1.1" 200 318 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:29,833 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:29 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:29,860 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:29 +0000] "PUT /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c/references HTTP/1.1" 200 318 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:29,890 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:29 +0000] "GET /nifi-api/flow/bulletin-board?sourceId= HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:29,925 INFO [NiFi Web Server-9648] o.a.n.c.s.StandardProcessScheduler Disabling StandardControllerServiceNode[service=JsonRecordSetWriter[id=302cbcfb-0188-1000-0000-0000103de34c], name=JsonRecordSetWriter, active=true]
+2023-05-19 07:52:29,927 INFO [Timer-Driven Process Thread-1] o.a.n.c.service.ServiceStateTransition StandardControllerServiceNode[service=JsonRecordSetWriter[id=302cbcfb-0188-1000-0000-0000103de34c], name=JsonRecordSetWriter, active=false] is now fully DISABLED
+2023-05-19 07:52:29,984 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:29 +0000] "PUT /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c/run-status HTTP/1.1" 200 3693 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:30,001 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:30 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:30,253 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:52:32,062 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:32 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:32,071 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:32 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3688 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:32,125 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:32 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3688 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:32,175 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:32 +0000] "GET /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1667 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:33,826 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:33 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3688 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:33,833 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:33 +0000] "GET /nifi-api/flow/history/components/302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 375 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:35,122 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:52:35,122 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:52:50,748 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:50 +0000] "GET /nifi-docs/documentation?select=org.apache.nifi.json.JsonRecordSetWriter&group=org.apache.nifi&artifact=nifi-record-serialization-services-nar&version=1.21.0 HTTP/1.1" 200 18929 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:50,780 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:50 +0000] "GET /nifi-docs/js/application.js HTTP/1.1" 200 3719 "http://localhost:8091/nifi-docs/documentation?select=org.apache.nifi.json.JsonRecordSetWriter&group=org.apache.nifi&artifact=nifi-record-serialization-services-nar&version=1.21.0" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:51,057 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:51 +0000] "GET /nifi-api/flow/about HTTP/1.1" 200 208 "http://localhost:8091/nifi-docs/documentation?select=org.apache.nifi.json.JsonRecordSetWriter&group=org.apache.nifi&artifact=nifi-record-serialization-services-nar&version=1.21.0" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:51,255 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:51 +0000] "GET /nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.21.0/org.apache.nifi.json.JsonRecordSetWriter/index.html HTTP/1.1" 200 3608 "http://localhost:8091/nifi-docs/documentation?select=org.apache.nifi.json.JsonRecordSetWriter&group=org.apache.nifi&artifact=nifi-record-serialization-services-nar&version=1.21.0" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:51,413 INFO [NiFi Web Server-9648] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:52:51 +0000] "GET /nifi-docs/html/images/iconInfo.png HTTP/1.1" 200 562 "http://localhost:8091/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.21.0/org.apache.nifi.json.JsonRecordSetWriter/index.html" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:52:55,122 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:52:55,123 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:53:14,512 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 24 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 3 millis), max Transaction ID 152
+2023-05-19 07:53:15,123 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:53:15,123 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:53:26,168 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:53:26,170 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:53:35,124 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:53:35,125 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:53:55,126 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:53:55,127 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:54:15,128 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:54:15,128 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:54:26,175 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:54:26,176 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:54:35,128 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:54:35,129 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:54:55,131 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:54:55,131 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:54:58,142 INFO [NiFi Web Server-9623] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:54:58 +0000] "GET /nifi-api/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 709 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:54:58,160 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:54:58 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc/controller-services?uiOnly=true HTTP/1.1" 200 10280 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:54:58,167 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:54:58 +0000] "GET /nifi-api/flow/parameter-contexts HTTP/1.1" 200 73 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:01,504 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:01 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3688 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:01,511 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:01 +0000] "GET /nifi-api/flow/history/components/302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 375 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:14,608 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 95 milliseconds (Stop-the-world time = 2 milliseconds, Clear Edit Logs time = 1 millis), max Transaction ID 152
+2023-05-19 07:55:15,132 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:55:15,132 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:55:26,183 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:55:26,183 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:55:35,133 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:55:35,133 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:55:52,031 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:52 +0000] "PUT /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 3974 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:52,111 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:52 +0000] "GET /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1667 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:52,342 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:55:53,918 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:53 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:54,870 INFO [NiFi Web Server-9613] o.a.n.c.s.StandardProcessScheduler Enabling StandardControllerServiceNode[service=JsonRecordSetWriter[id=302cbcfb-0188-1000-0000-0000103de34c], name=JsonRecordSetWriter, active=false]
+2023-05-19 07:55:54,874 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:54 +0000] "PUT /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c/run-status HTTP/1.1" 200 3690 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:54,900 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:54 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:55,134 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:55:55,134 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 30 records in 0 milliseconds
+2023-05-19 07:55:55,477 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:55:55,596 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.StandardControllerServiceNode Successfully enabled StandardControllerServiceNode[service=JsonRecordSetWriter[id=302cbcfb-0188-1000-0000-0000103de34c], name=JsonRecordSetWriter, active=true]
+2023-05-19 07:55:56,953 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:56 +0000] "GET /nifi-api/flow/bulletin-board?sourceId=302cbcfb-0188-1000-0000-0000103de34c HTTP/1.1" 200 72 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:56,956 INFO [NiFi Web Server-9613] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:56 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3627 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:56,984 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:56 +0000] "GET /nifi-api/controller-services/302cbcfb-0188-1000-0000-0000103de34c?uiOnly=true HTTP/1.1" 200 3627 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:55:57,033 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:55:57 +0000] "GET /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81 HTTP/1.1" 200 1607 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:05,869 INFO [NiFi Web Server-9418] o.a.n.c.s.StandardProcessScheduler Running once ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5]
+2023-05-19 07:56:05,869 INFO [NiFi Web Server-9418] o.a.n.controller.StandardProcessorNode Starting ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5]
+2023-05-19 07:56:05,873 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:05 +0000] "PUT /nifi-api/processors/30638e6f-0188-1000-0000-00007904a0d5/run-status HTTP/1.1" 200 3053 "http://localhost:8091/nifi/?processGroupId=root&componentIds=30638e6f-0188-1000-0000-00007904a0d5" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:05,924 INFO [Timer-Driven Process Thread-6] o.a.n.p.store.WriteAheadStorePartition Successfully rolled over Event Writer for Provenance Event Store Partition[directory=./provenance_repository] due to MAX_TIME_REACHED. Event File was 24.6 KB and contained 14 events.
+2023-05-19 07:56:05,967 INFO [Timer-Driven Process Thread-6] o.a.n.c.s.StandardProcessScheduler Stopping ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5]
+2023-05-19 07:56:05,968 INFO [Timer-Driven Process Thread-6] o.a.n.controller.StandardProcessorNode Stopping processor: ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5]
+2023-05-19 07:56:05,968 INFO [Timer-Driven Process Thread-1] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5] to run
+2023-05-19 07:56:05,968 INFO [Timer-Driven Process Thread-1] o.a.n.controller.StandardProcessorNode ReplaceText[id=30638e6f-0188-1000-0000-00007904a0d5] has completely stopped. Completing any associated Futures.
+2023-05-19 07:56:06,199 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:56:07,169 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:07 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 5934 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:07,182 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:07 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 214 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:07,186 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:07 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:07,187 INFO [NiFi Web Server-9274] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:07 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:07,234 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:07 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:12,137 INFO [NiFi Web Server-9624] o.a.n.c.s.StandardProcessScheduler Running once ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:56:12,137 INFO [NiFi Web Server-9624] o.a.n.controller.StandardProcessorNode Starting ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:56:12,140 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:12 +0000] "PUT /nifi-api/processors/302b16a4-0188-1000-ffff-ffffce470e81/run-status HTTP/1.1" 200 1629 "http://localhost:8091/nifi/?processGroupId=root&componentIds=302b16a4-0188-1000-ffff-ffffce470e81" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:12,155 INFO [Timer-Driven Process Thread-8] o.a.n.c.s.StandardProcessScheduler Stopping ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:56:12,156 INFO [Timer-Driven Process Thread-8] o.a.n.controller.StandardProcessorNode Stopping processor: ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81]
+2023-05-19 07:56:12,157 INFO [Timer-Driven Process Thread-9] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81] to run
+2023-05-19 07:56:12,157 INFO [Timer-Driven Process Thread-9] o.a.n.controller.StandardProcessorNode ConvertRecord[id=302b16a4-0188-1000-ffff-ffffce470e81] has completely stopped. Completing any associated Futures.
+2023-05-19 07:56:12,446 INFO [Flow Service Tasks Thread-2] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:56:13,623 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:13 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 6050 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:13,633 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:13 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 213 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:13,637 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:13 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:13,641 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:13 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:13,645 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:13 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:15,134 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:56:15,150 INFO [pool-10-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 31 Records and 0 Swap Files in 15 milliseconds (Stop-the-world time = 6 milliseconds), max Transaction ID 11209
+2023-05-19 07:56:15,151 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 16 milliseconds
+2023-05-19 07:56:20,706 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:20 +0000] "POST /nifi-api/flowfile-queues/3034916d-0188-1000-0000-000074d36465/listing-requests HTTP/1.1" 202 316 "http://localhost:8091/nifi/?processGroupId=root&componentIds=3034916d-0188-1000-0000-000074d36465" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:21,781 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:21 +0000] "GET /nifi-api/flowfile-queues/3034916d-0188-1000-0000-000074d36465/listing-requests/33027b61-0188-1000-0aa2-1f7049c27bcd HTTP/1.1" 200 434 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:21,842 INFO [NiFi Web Server-9418] o.a.n.c.queue.AbstractFlowFileQueue Canceling ListFlowFile Request with ID 33027b61-0188-1000-0aa2-1f7049c27bcd
+2023-05-19 07:56:21,843 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:21 +0000] "DELETE /nifi-api/flowfile-queues/3034916d-0188-1000-0000-000074d36465/listing-requests/33027b61-0188-1000-0aa2-1f7049c27bcd HTTP/1.1" 200 301 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:23,989 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:23 +0000] "GET /nifi-api/flowfile-queues/3034916d-0188-1000-0000-000074d36465/flowfiles/4c115bd5-229f-4dad-8fea-413a992eb710 HTTP/1.1" 200 832 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:26,188 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:56:26,188 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:56:35,153 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:56:35,154 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:56:40,086 INFO [NiFi Web Server-9418] o.a.n.c.s.StandardProcessScheduler Running once PutSQL[id=30354483-0188-1000-0000-0000400da923]
+2023-05-19 07:56:40,086 INFO [NiFi Web Server-9418] o.a.n.controller.StandardProcessorNode Starting PutSQL[id=30354483-0188-1000-0000-0000400da923]
+2023-05-19 07:56:40,089 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:40 +0000] "PUT /nifi-api/processors/30354483-0188-1000-0000-0000400da923/run-status HTTP/1.1" 200 2947 "http://localhost:8091/nifi/?processGroupId=root&componentIds=30354483-0188-1000-0000-0000400da923" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:40,097 ERROR [Timer-Driven Process Thread-5] o.apache.nifi.processors.standard.PutSQL PutSQL[id=30354483-0188-1000-0000-0000400da923] Failed to update database for StandardFlowFileRecord[uuid=4c115bd5-229f-4dad-8fea-413a992eb710,claim=StandardContentClaim [resourceClaim=StandardResourceClaim[id=1684396196535-1, container=default, section=1], offset=23501, length=100],offset=0,name=data.csv,size=100] due to java.sql.SQLDataException: The value of the sql.args.1.value is '91.0', which cannot be converted into the necessary data type; routing to failure
+java.sql.SQLDataException: The value of the sql.args.1.value is '91.0', which cannot be converted into the necessary data type
+	at org.apache.nifi.util.db.JdbcCommon.setParameterAtIndex(JdbcCommon.java:731)
+	at org.apache.nifi.util.db.JdbcCommon.setSensitiveParameters(JdbcCommon.java:704)
+	at org.apache.nifi.util.db.JdbcCommon.setParameters(JdbcCommon.java:690)
+	at org.apache.nifi.processors.standard.PutSQL.lambda$null$4(PutSQL.java:347)
+	at org.apache.nifi.processor.util.pattern.ExceptionHandler.execute(ExceptionHandler.java:127)
+	at org.apache.nifi.processors.standard.PutSQL.lambda$new$5(PutSQL.java:345)
+	at org.apache.nifi.processors.standard.PutSQL.lambda$new$7(PutSQL.java:390)
+	at org.apache.nifi.processor.util.pattern.PutGroup.putFlowFiles(PutGroup.java:91)
+	at org.apache.nifi.processor.util.pattern.Put.onTrigger(Put.java:103)
+	at org.apache.nifi.processors.standard.PutSQL.lambda$onTrigger$21(PutSQL.java:659)
+	at org.apache.nifi.processor.util.pattern.PartialFunctions.onTrigger(PartialFunctions.java:120)
+	at org.apache.nifi.processor.util.pattern.RollbackOnFailure.onTrigger(RollbackOnFailure.java:184)
+	at org.apache.nifi.processors.standard.PutSQL.onTrigger(PutSQL.java:659)
+	at org.apache.nifi.controller.StandardProcessorNode.onTrigger(StandardProcessorNode.java:1360)
+	at org.apache.nifi.controller.tasks.ConnectableTask.invoke(ConnectableTask.java:246)
+	at org.apache.nifi.controller.scheduling.AbstractTimeBasedSchedulingAgent.lambda$doScheduleOnce$0(AbstractTimeBasedSchedulingAgent.java:59)
+	at org.apache.nifi.engine.FlowEngine$2.run(FlowEngine.java:110)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NumberFormatException: For input string: "91.0"
+	at java.base/java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at java.base/java.lang.Integer.parseInt(Unknown Source)
+	at org.apache.nifi.util.db.JdbcCommon.setParameter(JdbcCommon.java:770)
+	at org.apache.nifi.util.db.JdbcCommon.setParameterAtIndex(JdbcCommon.java:729)
+	... 22 common frames omitted
+2023-05-19 07:56:40,145 INFO [Timer-Driven Process Thread-5] o.a.n.c.s.StandardProcessScheduler Stopping PutSQL[id=30354483-0188-1000-0000-0000400da923]
+2023-05-19 07:56:40,146 INFO [Timer-Driven Process Thread-5] o.a.n.controller.StandardProcessorNode Stopping processor: PutSQL[id=30354483-0188-1000-0000-0000400da923]
+2023-05-19 07:56:40,146 INFO [Timer-Driven Process Thread-5] o.a.n.c.s.TimerDrivenSchedulingAgent Stopped scheduling PutSQL[id=30354483-0188-1000-0000-0000400da923] to run
+2023-05-19 07:56:40,146 INFO [Timer-Driven Process Thread-5] o.a.n.controller.StandardProcessorNode PutSQL[id=30354483-0188-1000-0000-0000400da923] has completely stopped. Completing any associated Futures.
+2023-05-19 07:56:40,617 INFO [Flow Service Tasks Thread-1] o.a.nifi.controller.StandardFlowService Saved flow controller org.apache.nifi.controller.FlowController@7abab29 // Another save pending = false
+2023-05-19 07:56:41,187 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:41 +0000] "GET /nifi-api/flow/process-groups/f927a077-0186-1000-b650-c2d56ec1cebc?uiOnly=true HTTP/1.1" 200 6320 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:41,197 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:41 +0000] "GET /nifi-api/flow/status HTTP/1.1" 200 213 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:41,202 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:41 +0000] "GET /nifi-api/flow/current-user HTTP/1.1" 200 366 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:41,206 INFO [NiFi Web Server-9418] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:41 +0000] "GET /nifi-api/flow/controller/bulletins HTTP/1.1" 200 109 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:41,208 INFO [NiFi Web Server-9624] org.apache.nifi.web.server.RequestLog 172.18.0.1 - - [19/May/2023:07:56:41 +0000] "GET /nifi-api/flow/cluster/summary HTTP/1.1" 200 97 "http://localhost:8091/nifi/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
+2023-05-19 07:56:55,154 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:56:55,160 INFO [pool-10-thread-1] o.a.n.wali.SequentialAccessWriteAheadLog Checkpointed Write-Ahead Log with 31 Records and 0 Swap Files in 6 milliseconds (Stop-the-world time = 3 milliseconds), max Transaction ID 11210
+2023-05-19 07:56:55,161 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 6 milliseconds
+2023-05-19 07:57:14,643 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 34 milliseconds (Stop-the-world time = 5 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 152
+2023-05-19 07:57:15,162 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:57:15,162 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:57:26,194 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:57:26,194 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:57:35,163 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:57:35,163 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:57:55,164 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:57:55,164 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:58:15,168 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:58:15,168 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:58:26,203 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:58:26,204 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:58:35,169 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:58:35,169 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:58:55,172 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:58:55,172 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:59:14,718 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@128c7b5b checkpointed with 16 Records and 0 Swap Files in 71 milliseconds (Stop-the-world time = 3 milliseconds, Clear Edit Logs time = 3 millis), max Transaction ID 152
+2023-05-19 07:59:15,173 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:59:15,173 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:59:26,215 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2023-05-19 07:59:26,216 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Archive cleanup completed for container default; will now allow writing to this container. Bytes used = 31 GB, bytes free = 8.98 GB, capacity = 39.98 GB
+2023-05-19 07:59:35,175 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:59:35,176 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
+2023-05-19 07:59:55,176 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2023-05-19 07:59:55,177 INFO [pool-10-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 31 records in 0 milliseconds
