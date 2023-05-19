@@ -1,0 +1,4 @@
+1.Задачи по sql в файлике task_sql.sql
+2.Workflow в файлике NiFi_Flow.json
+3.Запускаем docker compose up -d --build
+4.Все остальные сопровождающие файлики в репозитории
